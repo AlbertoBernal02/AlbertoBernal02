@@ -10,7 +10,7 @@
 
 ## Proyectos Destacados
 
-### Proyecto 1: [TotalSport](enlace_al_repositorio)
+### Proyecto 1: [TotalSport](https://github.com/AlbertoBernal02/TotalSport)
 Una página web de deportes, en la cual aparecen noticias, imágenes, etc....
 
 ## Contacto
