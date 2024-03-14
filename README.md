@@ -13,9 +13,6 @@
 ### Proyecto 1: [TotalSport](enlace_al_repositorio)
 Una página web de deportes, en la cual aparecen noticias, imágenes, etc....
 
-### Proyecto 2: [Nombre del Proyecto](enlace_al_repositorio)
-Breve descripción del proyecto y tu contribución en él.
-
 ## Contacto
 
 ¡Me encantaría conectar contigo! Puedes encontrarme en [LinkedIn](www.linkedin.com/in/alberto-bernal-mejías-b85903213).
