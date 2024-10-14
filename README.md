@@ -9,6 +9,7 @@
 - Implementación de APIs RESTful
 
 ## Proyectos Destacados
+### [CV](https://github.com/AlbertoBernal02/CV/blob/main/CV%20AlbertBernal.pdf)
 
 ### Proyecto 1: [TotalSport](https://github.com/AlbertoBernal02/TotalSport)
 Una página web de deportes, en la cual aparecen noticias, imágenes, etc....
