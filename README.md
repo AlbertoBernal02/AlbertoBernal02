@@ -1,5 +1,5 @@
 
-## ¡Hola! Soy Alberto Bernal, un estudiante de 21 años apasionado por el desarrollo de aplicaciones web. Actualmente estoy cursando un grado superior en Desarrollo de Aplicaciones Web y aquí en GitHub encontrarás algunos de mis proyectos y trabajos en los que he estado trabajando.
+## ¡Hola! Soy Alberto Bernal, un programador de 21 años apasionado por el desarrollo de aplicaciones web, me considero desarrollador full-stack. Aquí en GitHub encontrarás algunos de mis proyectos y trabajos en los que he estado trabajando.
 
 ## Habilidades
 
@@ -8,7 +8,35 @@
 - Gestión de bases de datos
 - Implementación de APIs RESTful
 
-### [MI CV](https://github.com/AlbertoBernal02/CV/blob/main/CV%20AlbertBernal.pdf)
+## Lenguajes
+<div>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt = "JAVA"></img>
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt = "PHP "></img>
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt = "PHP "></img>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt = "JAVASCRIPT "></img>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt = "HTML"></img>
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt = "CSS "></img>
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt = "JSON"></img>
+
+</div>
+
+## Tools
+<div>
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt = "LARAVEL"></img>
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt = "MY SQL"></img>
+  <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt = "GITHUB PAGES"></img>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt = "GITHUB"></img>
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "FIGMA"></img>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt = "GIT"></img>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt = "DOCKER"></img>
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt = "EXPRESS JS"></img>
+  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt = "SASS"></img>
+</div>
+
+## DESCARGAR MI CV
+
+  
+### [MI CV](https://github.com/AlbertoBernal02/CV/blob/main/CV%20AlbertoBernal%20ACT.pdf)
 
 ## Proyectos Destacados
 
