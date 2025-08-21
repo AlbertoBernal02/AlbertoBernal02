@@ -31,6 +31,8 @@
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt = "DOCKER"></img>
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt = "EXPRESS JS"></img>
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt = "SASS"></img>
+  <img src="https://img.shields.io/badge/symfony-000000.svg?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony"></img>
+  <img src="https://img.shields.io/badge/oracle%20db-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle DB"></img>
 </div>
 
 ## DESCARGAR MI CV
