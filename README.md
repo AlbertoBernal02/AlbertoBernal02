@@ -1,5 +1,5 @@
 
-## ¡Hola! Soy Alberto Bernal, un programador de 21 años apasionado por el desarrollo de aplicaciones web, me considero desarrollador full-stack. Aquí en GitHub encontrarás algunos de mis proyectos y trabajos en los que he estado trabajando.
+## ¡Hola! Soy Alberto Bernal, un programador de 22 años apasionado por el desarrollo de aplicaciones web, me considero desarrollador full-stack. Aquí en GitHub encontrarás algunos de mis proyectos y trabajos en los que he estado trabajando.
 
 ## Habilidades
 
@@ -58,7 +58,7 @@ Portfolio Web desarrollado con HTML, CSS, JavaScript y Booststrap.
 
 ## Contacto
 
-¡Me encantaría conectar contigo! Puedes encontrarme en [LinkedIn](www.linkedin.com/in/alberto-bernal-mejías-b85903213).
+¡Me encantaría conectar contigo! Puedes encontrarme en [LinkedIn](www.linkedin.com/in/alberto-bernal-mejías-b85903213](https://linkedin.com/in/alberto-bernal-mejias-b85903213).
 
 No dudes en explorar mis repositorios y contactarme si tienes alguna pregunta o sugerencia. ¡Gracias por visitar mi perfil!
 
