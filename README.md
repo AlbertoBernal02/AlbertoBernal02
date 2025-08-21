@@ -58,7 +58,7 @@ Portfolio Web desarrollado con HTML, CSS, JavaScript y Booststrap.
 
 ## Contacto
 
-¡Me encantaría conectar contigo! Puedes encontrarme en [LinkedIn](www.linkedin.com/in/alberto-bernal-mejías-b85903213](https://linkedin.com/in/alberto-bernal-mejias-b85903213).
+¡Me encantaría conectar contigo! Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/alberto-bernal-mejias-b85903213).
 
 No dudes en explorar mis repositorios y contactarme si tienes alguna pregunta o sugerencia. ¡Gracias por visitar mi perfil!
 
