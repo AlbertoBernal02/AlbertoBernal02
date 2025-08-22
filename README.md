@@ -65,15 +65,30 @@ Portfolio Web desarrollado con HTML, CSS, JavaScript y Booststrap.
 
 
 
-## Contacto
+## 🤝 ¡Conectemos!
 
-¡Me encantaría conectar contigo! Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/alberto-bernal-mejias-b85903213).
+<div align="center">
+  
+  ### 💬 *"Siempre hay algo nuevo que aprender y compartir"*
+  
+  **¿Quieres charlar sobre programación, proyectos web o ideas innovadoras?**  
+  **Me encanta colaborar y conectar con personas apasionadas por la tecnología.**
+  
+  <br>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hablemos%20de%20tecnología-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-bernal-mejias-b85903213)
+  [![Instagram](https://img.shields.io/badge/Instagram-Conectemos%20ahí-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/albertxbernal)
+  [![Gmail](https://img.shields.io/badge/Email-Mándame%20un%20mensaje-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abernalmejias@hotmail.com)
+  
+  <br>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=albertxbernal&color=00d9ff&style=for-the-badge&label=Visitantes)
+  [![GitHub followers](https://img.shields.io/github/followers/albertxbernal?logo=github&style=for-the-badge&color=00d9ff&labelColor=0d1117)](https://github.com/albertxbernal)
+  
+</div>
 
-No dudes en explorar mis repositorios y contactarme si tienes alguna pregunta o sugerencia. ¡Gracias por visitar mi perfil!
+---
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/albertxbernal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/alberto-bernal-mejías-b85903213) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abernalmejias@hotmail.com) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AlbertoBernal02&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)<br/>
