@@ -76,7 +76,7 @@ Portfolio Web desarrollado con HTML, CSS, JavaScript y Booststrap.
   
   <br>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hablemos%20de%20tecnología-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-bernal-mejias-b85903213)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hablemos%20de%20tecnología-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-bernal-mej%C3%ADas-b85903213/)
   [![Instagram](https://img.shields.io/badge/Instagram-Conectemos%20ahí-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/albertxbernal)
   [![Gmail](https://img.shields.io/badge/Email-Mándame%20un%20mensaje-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:XxsaiyanaymxX@gmail.com)
   
