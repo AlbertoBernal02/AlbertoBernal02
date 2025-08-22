@@ -43,6 +43,15 @@
   
 ### [MI CV](https://github.com/AlbertoBernal02/CV/blob/main/CV%20AlbertoBernal%20ACT.pdf)
 
+## 📈 Actividad de Desarrollo
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlbertoBernal02&theme=react-dark&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6b6b&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
+---
+
+
 ## Proyectos Destacados
 
 ### Proyecto 1: [TotalSport](https://github.com/AlbertoBernal02/TotalSport)
