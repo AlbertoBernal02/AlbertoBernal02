@@ -1,12 +1,23 @@
 
-## ¡Hola! Soy Alberto Bernal, un programador de 22 años apasionado por el desarrollo de aplicaciones web, me considero desarrollador full-stack. Aquí en GitHub encontrarás algunos de mis proyectos y trabajos en los que he estado trabajando.
+## 👋 ¡Hola, soy Alberto Bernal!  
 
-## Habilidades
+<div align="center">
 
-- Desarrollo web frontend y backend
-- Diseño de interfaces de usuario
-- Gestión de bases de datos
-- Implementación de APIs RESTful
+💻 Tengo **22 años** y soy un **programador full-stack** apasionado por el desarrollo de aplicaciones web.  
+🚀 Me encanta aprender nuevas tecnologías y aplicarlas en proyectos reales.  
+📌 En este perfil encontrarás algunos de mis trabajos, proyectos personales y colaboraciones.  
+
+</div>
+
+---
+
+## 🛠️ Habilidades
+
+- 🌐 **Desarrollo Web Full-Stack** (Frontend & Backend)  
+- 🎨 **Diseño de interfaces de usuario** intuitivas y modernas  
+- 🗄️ **Gestión de bases de datos** (MySQL, Oracle)  
+- 🔗 **Implementación de APIs RESTful** y servicios web  
+
 
 ## 🧠 
 
