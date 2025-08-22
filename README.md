@@ -78,12 +78,12 @@ Portfolio Web desarrollado con HTML, CSS, JavaScript y Booststrap.
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hablemos%20de%20tecnología-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-bernal-mejias-b85903213)
   [![Instagram](https://img.shields.io/badge/Instagram-Conectemos%20ahí-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/albertxbernal)
-  [![Gmail](https://img.shields.io/badge/Email-Mándame%20un%20mensaje-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abernalmejias@hotmail.com)
+  [![Gmail](https://img.shields.io/badge/Email-Mándame%20un%20mensaje-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:XxsaiyanaymxX@gmail.com)
   
   <br>
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=albertxbernal&color=00d9ff&style=for-the-badge&label=Visitantes)
-  [![GitHub followers](https://img.shields.io/github/followers/albertxbernal?logo=github&style=for-the-badge&color=00d9ff&labelColor=0d1117)](https://github.com/albertxbernal)
+  ![Profile Views](https://komarev.com/ghpvc/?username=AlbertoBernal02&color=00d9ff&style=for-the-badge&label=Visitantes)
+  [![GitHub followers](https://img.shields.io/github/followers/AlbertoBernal02?logo=github&style=for-the-badge&color=00d9ff&labelColor=0d1117)](https://github.com/albertxbernal)
   
 </div>
 
