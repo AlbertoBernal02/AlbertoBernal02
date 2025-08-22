@@ -8,35 +8,44 @@
 - Gestión de bases de datos
 - Implementación de APIs RESTful
 
-## Lenguajes
-<div>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt = "JAVA"></img>
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt = "PHP "></img>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt = "JAVASCRIPT "></img>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt = "HTML"></img>
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt = "CSS "></img>
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt = "JSON"></img>
+## 🧠 
+
+<div align="center">
+
+### 💻 **Lenguajes**
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT">
+</p>
+
+### ⚙️ **Frameworks**
+
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB" alt="Express.js">
+  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony">
+</p>
+
+### 🛠️ **Herramientas & Tecnologías**
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Oracle%20DB-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle DB">
+  <img src="https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS">
+</p>
 
 </div>
 
-## Frameworks
-<div>
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt = "LARAVEL"></img>
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt = "EXPRESS JS"></img>
-  <img src="https://img.shields.io/badge/symfony-000000.svg?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony"></img>
-</div>
-
-## Tools
-<div>
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt = "MY SQL"></img>
-  <img src="https://img.shields.io/badge/oracle%20db-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle DB"></img>
-  <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt = "GITHUB PAGES"></img>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt = "GITHUB"></img>
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "FIGMA"></img>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt = "GIT"></img>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt = "DOCKER"></img>
-  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt = "SASS"></img>
-</div>
 
 ## DESCARGAR MI CV
 
@@ -52,16 +61,74 @@
 ---
 
 
-## Proyectos Destacados
+## 🎮 Proyectos Destacados
 
-### Proyecto 1: [TotalSport](https://github.com/AlbertoBernal02/TotalSport)
-Una página web de deportes, en la cual aparecen noticias, imágenes, etc....
+<div align="center">
 
-### Proyecto 2: [F1 Manager](https://github.com/Juliogarort/F1-Manager)
-Un sistema CRUD para añadir, modificar, consultar y eliminar registros de una BBDD desde un programa de Java.
+### 📰 **TotalSport**
+<img src="https://img.shields.io/badge/Estado-Completado-28a745?style=flat-square"> <img src="https://img.shields.io/badge/Tipo-Web-blue?style=flat-square">
 
-### Proyecto 3: [Portfolio Web](https://github.com/AlbertoBernal02/Portfolio-AlbertoBernal.git)
-Portfolio Web desarrollado con HTML, CSS, JavaScript y Booststrap.
+> *Página web de deportes con noticias, imágenes y secciones temáticas.*
+
+**🎯 Objetivo:** Ofrecer un portal deportivo con diseño sencillo y dinámico  
+**⚡ Aprendizajes:** HTML, CSS, JavaScript, manejo de contenidos web  
+
+**[🔗 Ver Repositorio](https://github.com/AlbertoBernal02/TotalSport)**
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+---
+
+### 🏎️ **F1 Manager**
+<img src="https://img.shields.io/badge/Estado-Completado-28a745?style=flat-square"> <img src="https://img.shields.io/badge/Tipo-CRUD-orange?style=flat-square">
+
+> *Sistema CRUD en Java para gestión de una base de datos.*
+
+**🎯 Objetivo:** Implementar operaciones básicas de BBDD (alta, baja, modificación y consulta)  
+**⚡ Aprendizajes:** Conexión a BBDD, SQL, lógica de programación en Java  
+
+**[🔗 Ver Repositorio](https://github.com/Juliogarort/F1-Manager)**
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
+---
+
+### 🌐 **Portfolio Web**
+<img src="https://img.shields.io/badge/Estado-Completado-28a745?style=flat-square"> <img src="https://img.shields.io/badge/Tipo-Personal-lightgrey?style=flat-square">
+
+> *Portfolio web personal para mostrar proyectos y habilidades.*
+
+**🎯 Objetivo:** Crear una carta de presentación digital moderna  
+**⚡ Aprendizajes:** Diseño responsive, uso de Bootstrap, organización de proyectos  
+
+**[🔗 Ver Repositorio](https://github.com/AlbertoBernal02/Portfolio-AlbertoBernal.git)**
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+
+---
+
+### 🏁 **F1Collector (TFG)**
+<img src="https://img.shields.io/badge/Estado-TFG%20Completado-gold?style=flat-square"> <img src="https://img.shields.io/badge/Tipo-Ecommerce-red?style=flat-square">
+
+> *Trabajo de Fin de Grado: aplicación web para coleccionismo de Fórmula 1.*
+
+**🎯 Objetivo:** Desarrollar un sistema completo de gestión de colecciones con compra y venta  
+**⚡ Aprendizajes:** Laravel avanzado, autenticación, Stripe, wishlist, carrito de compras, impresión de etiquetas  
+
+**[🔗 Ver Repositorio](https://github.com/Juliogarort/F1Collector.git)**
+
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Blade-7952B3?style=for-the-badge&logo=laravel&logoColor=white">
+<img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white">
+
+</div>
 
 
 
@@ -90,29 +157,22 @@ Portfolio Web desarrollado con HTML, CSS, JavaScript y Booststrap.
 ---
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AlbertoBernal02&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AlbertoBernal02&theme=darcula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoBernal02&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=AlbertoBernal02&show_icons=true&theme=darcula&hide_border=false&include_all_commits=true&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoBernal02&theme=darcula&hide_border=false&layout=compact" height="180em" />
+  
+  <br><br>
+  
+  <img src="https://nirzak-streak-stats.vercel.app/?user=AlbertoBernal02&theme=darcula&hide_border=false" height="180em" />
+
+</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AlbertoBernal02&theme=darcula&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AlbertoBernal02&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**AlbertoBernal02/AlbertoBernal02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
