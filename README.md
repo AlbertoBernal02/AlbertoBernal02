@@ -68,7 +68,7 @@
 ## DESCARGAR MI CV
 
   
-### [MI CV](https://github.com/AlbertoBernal02/CV/blob/main/CV%20AlbertoBernal%20ACT.pdf)
+### [MI CV](https://github.com/AlbertoBernal02/CV/blob/main/NEW_CV_ALBERTOBERNAL.pdf)
 
 ## 📈 Actividad de Desarrollo
 
