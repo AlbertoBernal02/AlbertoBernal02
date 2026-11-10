@@ -26,6 +26,66 @@
 <table>
   <tr>
     <td align="center" width="50%" valign="top">
+      <h3>🥗 Kcalibur</h3>
+      <a href="https://kcalibur.vercel.app">
+        <img src="https://img.shields.io/badge/Demo-kcalibur.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Kcalibur en vivo">
+      </a>
+      <br/>
+      <img src="https://img.shields.io/badge/Estado-En%20producción-2EA043?style=flat-square">
+      <img src="https://img.shields.io/badge/PWA-offline-5A0FC8?style=flat-square">
+      <p>
+        <b>PWA</b> para registrar comidas y calcular <b>calorías y macros</b>, pensada para el iPhone.
+        Diario por días con 5 comidas, ~130 alimentos genéricos, <b>Open Food Facts</b>,
+        <b>escáner de códigos de barras</b>, recetas y dietas, seguimiento de peso y agua y
+        fotos de progreso. Incluye un <b>asistente de IA</b> opcional y funciona <b>sin conexión</b>.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white">
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
+        <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white">
+      </p>
+      <a href="https://github.com/AlbertoBernal02/Kcalibur">🔗 Ver repositorio</a>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <h3>🧹 PWA Limp</h3>
+      <img src="https://img.shields.io/badge/Repositorio-Privado-lightgrey?style=flat-square&logo=github">
+      <img src="https://img.shields.io/badge/PWA-instalable-5A0FC8?style=flat-square">
+      <p>
+        <b>PWA</b> de gestión de tareas para una empresa de limpieza. Cada operario ve en el móvil las
+        tareas del día, las marca como hechas con foto o nota y <b>ficha su jornada</b> (registro horario).
+        El administrador gestiona clientes, operarios, tareas recurrentes, vacaciones, material en
+        almacén e <b>informes mensuales en PDF y Excel</b>.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+        <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
+        <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat&logo=alpinedotjs&logoColor=black">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2" valign="top">
+      <h3>🏋️ La Bestia</h3>
+      <img src="https://img.shields.io/badge/Repositorio-Privado-lightgrey?style=flat-square&logo=github">
+      <img src="https://img.shields.io/badge/Estado-En%20desarrollo-orange?style=flat-square">
+      <p>
+        Plataforma de <b>entrenamiento personal</b> con tres roles (administrador, entrenador y cliente).
+        El entrenador crea <b>ejercicios y rutinas por semanas y bloques</b>, las asigna a sus clientes y
+        sigue sus sesiones, marcas personales, 1RM y <b>planes de nutrición</b>. El cliente registra cada serie
+        y se engancha con la <b>gamificación</b>: experiencia, rachas con escudos y recompensas configurables.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel%2013-FF2D20?style=flat&logo=laravel&logoColor=white">
+        <img src="https://img.shields.io/badge/PHP%208.3-777BB4?style=flat&logo=php&logoColor=white">
+        <img src="https://img.shields.io/badge/Livewire-FB70A9?style=flat&logo=livewire&logoColor=white">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="top">
       <h3>🏁 F1Collector <sub>(TFG)</sub></h3>
       <img src="https://img.shields.io/badge/Estado-TFG%20completado-gold?style=flat-square">
       <p>
