@@ -10,6 +10,17 @@
 
 ---
 
+## 🙋 Sobre mí
+
+- 🎓 Formado en **Desarrollo de Aplicaciones Web (DAW)**; mi trabajo de fin de grado fue **F1Collector**, una tienda completa en Laravel.
+- 🔭 Ahora mismo trabajo sobre todo con **Python**: APIs con FastAPI, automatización de procesos y pruebas end-to-end.
+- 🌱 Estoy profundizando en **testing automatizado**, arquitectura limpia y en integrar APIs externas de forma robusta.
+- 💡 Me gusta el código pequeño, comentado y con su prueba al lado: si no se puede comprobar, no está terminado.
+- 🗄️ Tengo base de bases de datos relacionales: MySQL y Oracle con PL/SQL.
+- 📫 Si quieres hablar de algo, escríbeme por LinkedIn o por correo.
+
+---
+
 ## 🚀 Proyectos destacados
 
 <table>
@@ -72,6 +83,50 @@
       <a href="https://github.com/AlbertoBernal02/Portfolio-AlbertoBernal.git">🔗 Ver repositorio</a>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <h3>🍽️ MesaYa</h3>
+      <img src="https://img.shields.io/badge/Estado-Completado-28a745?style=flat-square">
+      <p>
+        <i>«Reserva fácil, disfruta sin esperas».</i> Aplicación de reservas de mesa hecha con
+        <b>Laravel 11</b>, con su guía de instalación y uso documentada.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+      </p>
+      <a href="https://github.com/AlbertoBernal02/mesaya">🔗 Ver repositorio</a>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <h3>🌍 FeelVenture</h3>
+      <img src="https://img.shields.io/badge/Estado-Completado-28a745?style=flat-square">
+      <p>
+        <i>«Vive la aventura, siente la emoción».</i> Plataforma para encontrar y reservar
+        experiencias: desde escape rooms hasta actividades de aventura.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+      </p>
+      <a href="https://github.com/AlbertoBernal02/MiStartUp">🔗 Ver repositorio</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2" valign="top">
+      <h3>🎲 IlernaQuiz</h3>
+      <img src="https://img.shields.io/badge/Estado-Completado-28a745?style=flat-square">
+      <p>
+        Juego de <b>trivia en Java</b> con dado y preguntas por categorías, que se juega descargando el
+        <code>.jar</code> del repositorio.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">
+      </p>
+      <a href="https://github.com/AlbertoBernal02/IlernaQuiz">🔗 Ver repositorio</a>
+    </td>
+  </tr>
 </table>
 
 <details>
@@ -108,10 +163,15 @@
 ## 📊 GitHub en cifras
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlbertoBernal02&show_icons=true&theme=darcula&hide_border=true&include_all_commits=true&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoBernal02&theme=darcula&hide_border=true&layout=compact" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlbertoBernal02&theme=github_dark" alt="Resumen del perfil" />
   <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlbertoBernal02&theme=react-dark&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6b6b&area=true&hide_border=true" alt="Gráfico de actividad" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlbertoBernal02&theme=github_dark" alt="Repositorios por lenguaje" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlbertoBernal02&theme=github_dark" alt="Lenguajes con más commits" />
+  <br>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlbertoBernal02&theme=github_dark" alt="Estadísticas" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlbertoBernal02&theme=github_dark&utcOffset=1" alt="Horas más productivas" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com/?user=AlbertoBernal02&theme=github-dark-blue&hide_border=true" alt="Racha de contribuciones" />
 </div>
 
 <div align="center">
