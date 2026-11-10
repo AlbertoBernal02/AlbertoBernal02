@@ -193,11 +193,35 @@
 <summary><b>🧪 Trabajo más reciente</b> · automatización, QA y paneles internos</summary>
 <br/>
 
-- 🤖 **Panel interno de automatización y QA**: backend en **FastAPI**, frontend sin build (HTML/JS vanilla), pruebas automáticas contra infraestructura real y avisos a Discord.
-- 🎟️ **Automatización de procesos con Selenium**: scripts que orquestan un navegador de principio a fin (fechas, formularios, descarga de documentos) con registro de cada paso para poder diagnosticar un fallo sin abrir el navegador.
-- 📑 **Lectura de Excel y APIs REST**: carga de un fichero diario, validación con tests y lanzamiento de procesos a través de una API.
+#### 🧭 Panel interno de automatización y QA
 
-<sub>Python · FastAPI · Selenium · Playwright · Supabase · pytest</sub>
+Panel web de uso interno con **FastAPI + LangGraph + Supabase** y un frontend HTML/JS sin build. Lo uso a diario y crece por módulos:
+
+- 🤖 **QA automático de cambios**: cuando un ticket pasa a «listo para QA», el panel reserva un servidor libre, descarga la rama, ejecuta el script con la reserva de prueba, lee el resultado y deja la nota en el ticket. **El veredicto lo decide siempre un fichero de resultados, nunca un modelo ni el texto de la consola.**
+- 🎫 **Gestión de incidencias** con asistente de preguntas, roles por usuario y vistas distintas según quién entra.
+- 📣 **Avisos a Discord** (estado de QA, tickets y colas) en segundo plano: un fallo del aviso nunca puede afectar al QA, y solo se menciona a personas concretas.
+- 📡 **Pool de proxies móviles**: relay y reparto de conexiones entre móviles Android, con IP fresca por conexión y rotación solo cuando el móvil está libre. Sustituye a un servicio de pago.
+- 🛠️ **Servicios internos**: borrado de correo, subdominios, perfiles y estado de móviles, a través de un servicio con **peticiones firmadas** y claves de idempotencia en lo irreversible.
+- 🔎 **Integración de solo lectura** con un programador de tareas, para consultar su estado sin poder alterarlo.
+- 📚 **Documentación dentro del panel**, escrita por secciones (uso y funcionamiento) y filtrada por rol.
+- 📑 **Relanzado de reservas a cola desde un Excel diario**: se sube el fichero, se valida con vista previa, se compara con lo que hay en el sistema y se lanza tras confirmación. Cubierto con **tests automáticos**.
+
+#### 🎟️ Automatización de procesos con Selenium
+
+Scripts que recorren un navegador de principio a fin (fechas, formularios, pago, descarga del documento) y avisan del resultado:
+
+- Jerarquía de **excepciones propias con códigos** (`API-`, `DISP-`, `FORM-`…) para saber de un vistazo qué ha fallado.
+- Una línea de log por acción, de forma que **el log solo basta para reproducir un fallo** sin abrir el navegador.
+- **Captura de pantalla automática** cuando algo falla y esperas explícitas en lugar de pausas fijas.
+
+#### 🔐 Cómo trabajo
+
+- Secretos solo en variables de entorno, nunca en el código ni en los logs.
+- **Límite de tiempo duro** en toda llamada a un servicio externo, para que nada se quede colgado.
+- Probar contra el sistema real cuando se puede y contra un modo de prueba cuando no, sobre todo si hay algo irreversible.
+- Cada cambio de peso deja su nota de «qué trae y qué hacer al desplegar».
+
+<sub>Python · FastAPI · LangGraph · Selenium · Playwright · Supabase · pytest · Discord · Docker</sub>
 </details>
 
 > ⚠️ Gran parte de mi trabajo está en repositorios privados. Si quieres saber más de alguno, escríbeme.
