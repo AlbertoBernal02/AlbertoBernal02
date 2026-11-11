@@ -267,6 +267,15 @@ Scripts que recorren un navegador de principio a fin (fechas, formularios, pago,
 </div>
 
 <!--START_SECTION:langstats-->
+
+```txt
+Python                          💮💮💮💮💮💮💮💮💮💮💮💮·············   47.43 %
+TSX                             💮💮💮💮💮💮💮💮·················   31.60 %
+Batchfile                       💮💮💮······················   12.01 %
+TypeScript                      💮💮·······················   08.29 %
+CSS                             ·························   00.67 %
+```
+
 <!--END_SECTION:langstats-->
 
 ---
