@@ -269,12 +269,9 @@ Scripts que recorren un navegador de principio a fin (fechas, formularios, pago,
 <!--START_SECTION:langstats-->
 
 ```txt
-Python                          💮💮💮💮💮💮💮💮💮💮💮💮💮💮🚀··········   58.38 %
-PHP                             💮💮💮💮🚀····················   18.05 %
-TypeScript                      💮💮💮💮·····················   16.00 %
-TSX                             💮························   04.18 %
-SQL                             🚀························   02.75 %
-Other                           ·························   00.65 %
+Python                          💮💮💮💮💮💮💮💮💮💮💮💮💮💮💮💮💮💮💮💮💮💮···   87.62 %
+PHP                             💮💮💮······················   11.87 %
+HTML                            ·························   00.51 %
 ```
 
 <!--END_SECTION:langstats-->
